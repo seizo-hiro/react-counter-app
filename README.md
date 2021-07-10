@@ -1,5 +1,7 @@
 # react-counter-app
 
-This application is ready to be published at this URL.
+I created Counter Application in React.js.
+
+This application works at this URL.
 
 https://seizo-hiro.github.io/react-counter-app/
